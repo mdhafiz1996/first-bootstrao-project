@@ -1,0 +1,281 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	-webkit-box-sizing: border-box;
+}
+body{
+	font-family:font-family: 'Roboto', sans-serif; 
+	font-size:16px;
+}
+/*===========header section strat===========*/
+
+.header-section {
+    background-image: url(../images/abstract-technology-particle-background_52683-25766.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  	padding-top: 15px;
+    background-color: #00000021;
+    background-blend-mode: luminosity;
+   
+}
+
+.logo{
+	
+}
+.logo h1 {
+    font-size: 25px;
+    text-transform: uppercase;
+    margin: 0px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:white;
+    
+}
+.logo h1 span {
+    font-size: 9px;
+    display: block;
+    letter-spacing: 7px;
+    font-weight: 114px;
+    margin: 0px;
+    text-transform: uppercase;
+    font-weight: 100;
+    color:white;
+    padding: 10px;
+    
+    
+}
+
+
+.nav-section{
+	margin: 0px;
+	padding: 0px;
+}
+.nav-section ul{
+	
+	text-align: right;
+}
+.nav-section ul li{
+	list-style: none;
+	display: inline-block;
+}
+.nav-section ul li a{
+	font-size: 20px;
+	text-decoration: none;
+	display: block;
+	padding: 5px 20px;
+	text-transform:capitalize;
+	color: white;
+	
+	font-weight: 700;
+	border: 2px solid transparent;
+}
+.nav-section ul li a:hover{
+	border: 2px solid white;
+	border-radius: 25px;
+}
+.nav-section ul li:last-child a{
+	border:1px solid white;
+	border-radius: 25px;
+}
+.article{
+	text-align: center;
+	padding: 200px 0px;
+	color: white;
+}
+.article h5 {
+    font-size: 35px;
+    font-style: italic;
+    font-weight: 700;
+}
+.article h1{
+    font-size: 90px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+    
+
+.article .blue{
+	width:100px;
+	height: 5px;
+	background-color: red;
+	margin: auto;
+	display: inline-block;
+}
+.article .bte {
+    display: inline-block;
+    background-color: red;
+    padding: 19px 33px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    border-radius: 35px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.article .bte:hover{
+	border-color: blue;
+}
+
+
+/*===========header section strat===========*/
+.upcoming-section{
+	
+	padding: 100px 0px;
+}
+.coming{
+	padding:;
+}
+.coming h1{
+	font-size: 42px;
+	text-align: center;
+	padding:5px 0px;
+	text-transform: uppercase;
+	font-weight: 700px;
+}
+.coming .blue{
+	width: 100px;
+	height: 10px;
+	margin: auto;
+	background: red;
+	margin-bottom: 50px;
+
+}
+.img-section{
+	text-align: center;
+}
+.img-section img{
+	max-width: 100%
+	border-radius:10px;
+	height: 400px;
+	box-shadow: 9px 9px 20px 0px gray;
+	
+	
+}
+img{
+	max-width: 100%
+}
+
+.img-section h1{
+	font-size:26px;
+	font-weight: 700;
+	padding-top: 20px;
+
+}
+.img-section p{
+	font-size: 22px;
+	font-weight: 100;
+	line-height: 1.1;
+	padding: 10px 0px;
+}
+.img-section .btn{
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+a.btnnn {
+    text-decoration: none;
+}
+                     
+.exploror-section {
+    background-image: url(../images/6.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0px;
+    background-color: gray;
+    background-blend-mode: multiply;
+}
+.expolor{
+
+	color: white;
+
+
+}
+
+.expolor h2 {
+    font-size: 43px;
+    text-transform: uppercase;
+    margin-bottom: 28px;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding: 20px 0px;
+    line-height: 1.1;
+    font-size: 22px;
+}
+.expolor .bg-white {
+    width: 100px;
+    height: 5px;
+    background-color: red;
+    margin: auto;
+    
+    display: block;
+}
+
+
+
+
+.btnnn {
+    
+    letter-spacing: 5px;
+    font-size: 21px;
+    color: white;
+}
+
+
+.service-box{
+	background-color:#FBECEC;
+	padding: 150px 0px;
+
+}
+.service{
+	padding-top: 20px;
+}
+.service .white{
+	width: 100px;
+	height: 3px;
+	background-color: red;
+	display: block;
+	
+}
+.service h3 {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0px;
+    padding-bottom: 20px;
+    line-height: 1.0;
+   
+}
+.service p {
+    font-size: 22px;
+    padding: 30px 0px;
+    margin: 0px;
+}
+.success {
+    background-color: red;
+    padding: 11px 20px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    border-radius: 35px;
+    display:inline-block;
+}
+.image1 img{
+	padding-bottom: 20px;
+	border-radius: 5px;
+}
+img{
+	max-width: 100%;
+}
+.footer-section{
+	background-color:#000;
+	padding: 50px 0px;
+	color: white;
+	text-align: center;
+}
+.footer-section p {
+    font-size: 15px;
+    padding: 0px 95px;
+}
